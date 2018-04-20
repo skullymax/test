@@ -1,0 +1,3 @@
+import json
+
+bot = None
